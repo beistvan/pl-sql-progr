@@ -1,2 +1,2 @@
-# pl-sql-progr
+# PL/SQL
 PL/SQL programming
